@@ -8,6 +8,8 @@ import seaborn as sns
 # =========================
 st.set_page_config(page_title="Dashboard de Vendas", layout="wide")
 
+st.markdown("Análise interativa de vendas com foco em insights estratégicos e tomada de decisão.")
+st.caption("Projeto desenvolvido para fins de portfólio na área de dados.")
 st.title("📊 Dashboard de Vendas")
 
 # =========================
